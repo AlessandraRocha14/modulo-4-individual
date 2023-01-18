@@ -4,7 +4,7 @@
 Sim Professores e Matriculas
 
 ⇨ Quais são os principais campos e tipos?
-ID, CPF, Numero, matricula.
+ID, CPF, Numero, Matricula.
 
 ⇨ Como essas entidades estão relacionadas?
 Por meio de relacionamentos um para muitos e muitos para muitos.
